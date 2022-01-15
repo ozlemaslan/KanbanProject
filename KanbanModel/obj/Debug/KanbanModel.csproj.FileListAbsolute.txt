@@ -1,0 +1,10 @@
+C:\Users\ozlem\OneDrive\Masaüstü\bilgeadam\Odevler\17_19Nisan_Odev\KanbanModel\bin\Debug\KanbanModel.dll.config
+C:\Users\ozlem\OneDrive\Masaüstü\bilgeadam\Odevler\17_19Nisan_Odev\KanbanModel\bin\Debug\KanbanModel.dll
+C:\Users\ozlem\OneDrive\Masaüstü\bilgeadam\Odevler\17_19Nisan_Odev\KanbanModel\bin\Debug\KanbanModel.pdb
+C:\Users\ozlem\OneDrive\Masaüstü\bilgeadam\Odevler\17_19Nisan_Odev\KanbanModel\bin\Debug\EntityFramework.dll
+C:\Users\ozlem\OneDrive\Masaüstü\bilgeadam\Odevler\17_19Nisan_Odev\KanbanModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ozlem\OneDrive\Masaüstü\bilgeadam\Odevler\17_19Nisan_Odev\KanbanModel\bin\Debug\EntityFramework.xml
+C:\Users\ozlem\OneDrive\Masaüstü\bilgeadam\Odevler\17_19Nisan_Odev\KanbanModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ozlem\OneDrive\Masaüstü\bilgeadam\Odevler\17_19Nisan_Odev\KanbanModel\obj\Debug\KanbanModel.csproj.CopyComplete
+C:\Users\ozlem\OneDrive\Masaüstü\bilgeadam\Odevler\17_19Nisan_Odev\KanbanModel\obj\Debug\KanbanModel.dll
+C:\Users\ozlem\OneDrive\Masaüstü\bilgeadam\Odevler\17_19Nisan_Odev\KanbanModel\obj\Debug\KanbanModel.pdb

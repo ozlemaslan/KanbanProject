@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanban.EF.UI", "Kanban.EF.UI\Kanban.EF.UI.csproj", "{37684785-98D9-42A4-A52E-98F105DCD390}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanban.EF.DAL", "Kanban.EF.DAL\Kanban.EF.DAL.csproj", "{872243F2-DB5D-4887-B47A-E5DB7D10221B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanban.EF.BLL", "Kanban.EF.BLL\Kanban.EF.BLL.csproj", "{230539CA-A17E-432E-BFFA-5A608F1EAD57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KanbanModel", "KanbanModel\KanbanModel.csproj", "{58A443A9-D039-469D-A48B-0E4CAA39DB04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37684785-98D9-42A4-A52E-98F105DCD390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37684785-98D9-42A4-A52E-98F105DCD390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37684785-98D9-42A4-A52E-98F105DCD390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37684785-98D9-42A4-A52E-98F105DCD390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{872243F2-DB5D-4887-B47A-E5DB7D10221B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{872243F2-DB5D-4887-B47A-E5DB7D10221B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{872243F2-DB5D-4887-B47A-E5DB7D10221B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{872243F2-DB5D-4887-B47A-E5DB7D10221B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{230539CA-A17E-432E-BFFA-5A608F1EAD57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{230539CA-A17E-432E-BFFA-5A608F1EAD57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{230539CA-A17E-432E-BFFA-5A608F1EAD57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{230539CA-A17E-432E-BFFA-5A608F1EAD57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58A443A9-D039-469D-A48B-0E4CAA39DB04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A443A9-D039-469D-A48B-0E4CAA39DB04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A443A9-D039-469D-A48B-0E4CAA39DB04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A443A9-D039-469D-A48B-0E4CAA39DB04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A10E2645-EFE2-486A-B828-CC1C8692012C}
+	EndGlobalSection
+EndGlobal
