@@ -1,4 +1,4 @@
 # KanbanProject
 .Net , Winform , MSSQL Server
 
-Kanban Projesi TODO | DOING | DONE 
+Bilgeadam - Kanban Projesi TODO | DOING | DONE 
